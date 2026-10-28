@@ -1,4 +1,4 @@
-
+https://iotprof.smrtp.ru/article.php?id=206
 <p><strong>Версия:</strong> 1.0<br>
 <strong>Платформа:</strong> Raspberry Pi + Zigbee2MQTT + MySQL + PHP<br>
 <strong>Доступ:</strong> Веб-интерфейс, адаптив под мобильные устройства</p>
